@@ -1,0 +1,5 @@
+env/
+.git/
+.gitignore
+README.rst
+__pycache__/
