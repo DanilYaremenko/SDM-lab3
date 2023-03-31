@@ -1,4 +1,4 @@
-FROM python:bullseye
+FROM python:alpine
 
 WORKDIR /app
 
